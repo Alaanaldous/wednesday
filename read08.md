@@ -4,7 +4,7 @@
 
 # logical operators:
 
-# | Operator name | Function | sympol |
+  | Operator name | Function | sympol |
   |-----------|------------|----------|
   | logical and | this operator teste more than one condition | && |
   | logical or | this operator tests at least one condition | \||\ |
